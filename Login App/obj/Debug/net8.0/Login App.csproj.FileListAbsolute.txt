@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\bin\Debug\net8.0\Login App.exe
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\bin\Debug\net8.0\Login App.deps.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\bin\Debug\net8.0\Login App.runtimeconfig.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\bin\Debug\net8.0\Login App.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\bin\Debug\net8.0\Login App.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.sourcelink.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\refint\Login App.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\Login App.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L4\Login App\obj\Debug\net8.0\ref\Login App.dll
